@@ -43,7 +43,7 @@ export default {
   justify-content: center;
   flex-direction: column;
   height: 100vh;
-  width: 70%;
+  width: 75%;
 }
 .fact-index {
   color: #542a1e;

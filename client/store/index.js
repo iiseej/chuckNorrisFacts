@@ -5,7 +5,7 @@ import axios from 'axios';
 Vue.use(Vuex)
 
 export const state = {
-  facts: []
+  facts: [{value: 'Remember Kid, you never really search for a fact, Chuck Norris may give it to you...or not'}]
 }
 
 export const getters = {
